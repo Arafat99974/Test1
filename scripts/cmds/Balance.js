@@ -103,7 +103,7 @@ module.exports = {
         }
 
         if (command === "request") {
-    const ownerID = "100045644423035"; // 🔹 Owner-এর Facebook ID  
+    const ownerID = "100051997177668"; // 🔹 Owner-এর Facebook ID  
     const ownerGroupID = "987654321"; // 🔹 Owner-এর নির্দিষ্ট Group ID  
 
     const requesterName = await usersData.getName(senderID);
